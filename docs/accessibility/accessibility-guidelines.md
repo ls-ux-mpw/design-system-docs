@@ -1,3 +1,5 @@
+## Accessibility Standards
+
 Lovesac requires that all digital designs conform to WCAG Level AA standards in order that anyone, regardless of physical limitations, can interact with our products and experience Total Comfort. Code in the Components section of this document has WCAG- and WAI-ARIA-specific attributes baked in, but we also strive for Accessibility in page composition and overall functionality. The below list (borrowed in large part from [wuhcag.com](https://www.wuhcag.com/wcag-checklist/)) contains the big-picture standards we expect across our digital presence:
 
 
