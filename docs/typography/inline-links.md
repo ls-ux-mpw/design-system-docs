@@ -8,6 +8,8 @@ a {
   }
 ```
 
+***
+
 ![Inline Link Hover](inlinelink-hover.svg)
 ```css
 a:hover,
@@ -15,6 +17,8 @@ a:focus {
   color: $ls-teal-shade;
 }
 ```
+
+***
 
 ![Active Link](inlinelink-active.svg)
 ```css
