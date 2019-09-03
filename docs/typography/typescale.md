@@ -7,7 +7,7 @@
 
 Used for centered title text, usually over a banner image but occasionally on a neutral background.
 
-
+***
 
 #### Minor Header
 ![Minor Header](millersmall.svg)
@@ -16,7 +16,7 @@ Used for centered title text, usually over a banner image but occasionally on a 
 
 Most frequently used for PDP item names and PLP titles, but also can be used for titles on marketing pages when Museo doesn't provide enough emphasis; the latter application should be implemented sparingly.
 
-
+***
 
 #### Large Callout
 ![Large Callout](museo500l.svg)
@@ -25,7 +25,7 @@ Most frequently used for PDP item names and PLP titles, but also can be used for
 
 Most frequently used for PDP item names and PLP titles, but also can be used for titles on marketing pages when Museo doesn't provide enough emphasis; the latter application should be implemented sparingly.
 
-
+***
 
 #### Medium Callout
 ![Medium Callout](museo500m.svg)
@@ -34,7 +34,7 @@ Most frequently used for PDP item names and PLP titles, but also can be used for
 
 Most frequently used for PDP item names and PLP titles, but also can be used for titles on marketing pages when Museo doesn't provide enough emphasis; the latter application should be implemented sparingly.
 
-
+***
 
 #### Subheader
 ![Subheader](museo500s.svg)
@@ -43,7 +43,7 @@ Most frequently used for PDP item names and PLP titles, but also can be used for
 
 Most frequently used for PDP item names and PLP titles, but also can be used for titles on marketing pages when Museo doesn't provide enough emphasis; the latter application should be implemented sparingly.
 
-
+***
 
 #### Large Body Copy
 ![Large Body Copy](museo300l.svg)
@@ -52,7 +52,7 @@ Most frequently used for PDP item names and PLP titles, but also can be used for
 
 Most frequently used for PDP item names and PLP titles, but also can be used for titles on marketing pages when Museo doesn't provide enough emphasis; the latter application should be implemented sparingly.
 
-
+***
 
 #### Body Copy
 ![Body Copy](museo300m.svg)
@@ -61,7 +61,7 @@ Most frequently used for PDP item names and PLP titles, but also can be used for
 
 Most frequently used for PDP item names and PLP titles, but also can be used for titles on marketing pages when Museo doesn't provide enough emphasis; the latter application should be implemented sparingly.
 
-
+***
 
 #### Body Copy (Emphasized)
 ![Bold Body Copy](museo300em.svg)
@@ -70,7 +70,7 @@ Most frequently used for PDP item names and PLP titles, but also can be used for
 
 Most frequently used for PDP item names and PLP titles, but also can be used for titles on marketing pages when Museo doesn't provide enough emphasis; the latter application should be implemented sparingly.
 
-
+***
 
 #### Fine Print
 ![Fine Print](museo300s.svg)
