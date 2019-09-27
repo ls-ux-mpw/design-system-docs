@@ -7,3 +7,10 @@ Lovesac Teal is our primary brand color, used as an indicator for primary action
 Lovesac Grey, or Charcoal, is our monochrome base and our replacement for black -- use liberally! You'll most frequently see this in our UI as text, secondary interactions, and boundaries.
 
 Lovesac Red, or Cherry, should only be used for error messaging, or as a teal replacement during a major holiday/market share (Labor Day, Memorial Day, Christmas, and flash sales).
+
+
+## Shades
+
+![Lovesac Teal Shade](tealshade.svg) ![Lovesac Grey Shade](charcoalshade.svg) ![Lovesac Red Shade](cherryshade.svg)
+
+These colors are only to be used as hover or active states for buttons colored with the primary three brand elements. The Teal shade is occasionally used as a contrast background color for Lovesac Teal. All are text-accessible against white.
