@@ -5,7 +5,6 @@
 
   * Color
     * [Primary](color/primary.md)
-    * [Shades](color/shades.md)
     * [Neutrals](color/neutrals.md)
     * [Accents](color/accents.md)
 
