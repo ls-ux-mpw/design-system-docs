@@ -6,7 +6,6 @@
   * Color
     * [Primary](color/primary.md)
     * [Neutrals](color/neutrals.md)
-    * [Accents](color/accents.md)
 
   * Layouts + Spacing
     * [Spacing Conventions](layouts-spacing/spacing-conventions.md)
